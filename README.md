@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-*deployed link:*
+# deployed link:
 
-https://github.com/vinodonweb/note-app-redux.git
+## https://note-app-vinod.netlify.app/
 
 ## Available Scripts
 
